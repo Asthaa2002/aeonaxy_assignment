@@ -1,0 +1,31 @@
+{
+  "name": "aeonaxy_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^2.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.3",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5",
+    "pg-promise": "^11.6.0",
+    "querystring": "^0.2.1",
+    "resend": "^3.2.0"
+  }
+}
